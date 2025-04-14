@@ -9,7 +9,7 @@
 ### 💡 About Me
 
 - 🧑‍💻 I'm building web platforms for real estate and small businesses
-- ⚙️ Currently working with **React, Vite, Tailwind CSS**, and exploring **Node.js & Firebase**
+- ⚙️ Currently working with **React, Vite, CSS, and exploring **Node.js, PostgreSQL & Firebase**
 - 🚀 Founder of a property management startup
 - 🛠️ I love clean UI, component animations, and solving business problems with code
 
